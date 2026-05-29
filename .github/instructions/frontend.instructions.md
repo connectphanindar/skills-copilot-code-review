@@ -1,5 +1,6 @@
 ---
 applyTo: "*.html,*.js,*.css"
+---
 
 ## Frontend Guidelines
 
